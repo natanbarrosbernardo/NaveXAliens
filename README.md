@@ -49,12 +49,18 @@ Graphics / Graphics2D: utilizados para desenhar imagens, texto, objetos e efeito
 
 
 Karlac
+![image](https://github.com/user-attachments/assets/b6d16cff-8514-46ec-8303-611ec893275d)
  
+![image](https://github.com/user-attachments/assets/ef50fd4d-4177-423b-9fa8-8fa34a6ce0ed)
+![image](https://github.com/user-attachments/assets/aff06c7b-3b82-45b9-8e7b-639eec51de0c)
+
  
 
 Nave espacial:
   
+![image](https://github.com/user-attachments/assets/d6907f09-9379-4427-a121-a0282910d3b4)
   
+![image](https://github.com/user-attachments/assets/580edf2e-aa70-4315-a006-4acb870620e5)
  
 
 Abstração
